@@ -1,0 +1,14 @@
+[
+  {
+    "id": "3aca7235-c537-4319-8078-e66afafecb81",
+    "username": "vivek",
+    "email": "test@gmail.com",
+    "password": "$2b$10$N8RLGch3dJpgTPLdvih5D.ZFk.hL/D3fN4sBRRTkvZxnXS/83rMlu"
+  },
+  {
+    "id": "7b1d21f2-2f23-48ea-91bf-15b5739fb096",
+    "username": "vivek",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$f0xbbHFsOSGZBWYVTSJgrulvf78cHn9IBPKFoLzz0m37AHXt9.njy"
+  }
+]
