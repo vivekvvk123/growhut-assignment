@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/vivekvvk123/growhut-assignment.git
 cd growhut-assignment
+npm i
 
 ```
 
